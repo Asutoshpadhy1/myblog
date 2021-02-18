@@ -1,0 +1,23 @@
+{
+    "params": {
+        "local_server": "TRUE",
+        "local_uri": "mysql+pymysql://root:@localhost/myblog",
+        "prod_uri": "mysql+pymysql://root:@localhost/myblog",
+        "fb_url":"https://facebook.com/myblog",
+        "tw_url":"https://twiter.com/myblog",
+        "gh_url":"https://github.com/myblog",
+        "blog_name":"asutosh",
+        "gmail-user":"asutoshpadhy550@gmail.com",
+        "gmail-password":"0987654321asupadhy",
+        "about_text":"my name is asutosh",
+        "no_of_posts": 2,
+        "tag_line":"Blogs related to DATA SCIENCE comunity",
+        "login_img":"login.svg",
+        "admin_user":"asu",
+        "admin_pass":"iloveyou",
+        "upload_location":"D:\\webapp\\myblog\\static\\img"
+    }
+}
+
+
+
